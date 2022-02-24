@@ -1,0 +1,49 @@
+body{
+  margin:1;
+  padding:10;
+  box-sizing: border-box;
+  background-color: rgb(107, 114, 114);
+}
+/* .name
+{
+  color: blue;
+  background-color: red;
+  text-shadow: 3px 4px 3px #ffe9c5;
+  font-weight: bold;
+  text-align: center;
+  text-transform: capitalize;
+
+} */
+.main-container
+{
+  width: 100%;
+  justify-content: center;
+  display: flex;
+
+  align-items: center;
+  margin-top: 200px;
+  
+  
+  
+}
+
+h1{
+  box-shadow: 10px 7px 7px pink;
+  text-shadow: 5px 5px 3px red;
+  color:pink;
+  background-color: rgb(68, 2, 2);
+  border:2px groove #cac2b5;
+  border-radius: 20px;
+  padding: 10px;
+  
+}
+.time
+{
+  align-items: center;
+}
+.zero
+{
+  border: 2px groove red;
+  width: 50px;
+  height: 50px;
+}
